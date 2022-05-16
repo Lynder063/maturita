@@ -23,58 +23,70 @@ Podle těchto parametrů charakterizujeme jednotlivé typy kabelů.
     - ![obrazek](https://user-images.githubusercontent.com/56117532/168582272-82dc9f1f-b371-418e-894a-8933e50912e0.png)
 
 
-**Koaxiální kabel**
+### Koaxiální kabel
 Je to nejstarší typ kabelu používaný v počítačových sítích a měl velký vliv na rozvoj počítačových sítí. (LAN) Základem je měděný vodič který je obalen plastovou izolací a ta je opletena stíněním. Vše je ve vnějším obalu který je z plastu.
 
-**Druhy:**
+#### Druhy:
 
-**Tlustý koaxiální kabel (10 mm) -** špatně se s ním manipuluje, má dobré elektrické vlastnosti.
+- **Tlustý koaxiální kabel (10 mm)**
+  - špatně se s ním manipuluje, má dobré elektrické vlastnosti.
+- **Tenký koaxiální kabel**
+  - Manipuluje se s ním lépe než s tlustým kabelem ale má horší elektrické vlastnosti.
 
-**Tenký koaxiální kabel –** Manipuluje se s ním lépe než s tlustým kabelem ale má horší elektrické vlastnosti.
+#### Konektory:
 
-**Konektory:**
+  - **BNC**
+    - slouží k připojení ke stanici
+  - **T-Konektor**
+  - **Terminátor**
+    - Zabraňuje odrazům signálu na volném konci
 
-**BNC –** slouží k připojení ke stanici
-
-**T-Konektor**
-
-**Terminátor –** Zabraňuje odrazům signálu na volném konci
-
-Nejrozšířenější kabely jsou ethernetovské které mají impendanci 50 ohmů.
+Nejrozšířenější kabely jsou ethernetovské které mají impendanci **50 ohmů**.
 
 Nejčastěji se používají pro zapojení počítačů do sběrnicové topologie. V počítačových sítích se už ale moc nepoužívají jsou hlavně v kabelových televizích.
 
-**Kroucená dvojlinka**
+### Kroucená dvojlinka
 
-Nejrozšířenější kabel v lokálních sítích.
+  - **Nejrozšířenější kabel v lokálních sítích**
+  - Skládá se ze čtyř dvojic zkroucených vodičů, uložených v izolačním obalu.
+  - Díky vzájemnému zkroucení vodičů ve dvojicích je snížena možnost ovlivnit jeden vodič druhým.
 
-Skládá se ze čtyř dvojic zkroucených vodičů, uložených v izolačním obalu.
+#### Kategorie:
 
-Díky vzájemnému zkroucení vodičů ve dvojicích je snížena možnost ovlivnit jeden vodič druhým.
+- **Kategorie 1**
+  - Není určen k datovým přenosům, používá se třeba u telefonních rozvod. Přenosová rychlost do 1Mbit/s. Vhodné např. pro analogové rozvody, ISDN atd.
+- **Kategorie 2**
+  - Určeno pro přenos dat s maximální šířkou pásma 1,5 MHz. Používá se pro digitální přenos zvuku hlavně pro rozvody IBM Token ring. Přenosová rychlost 4Mbit/s.
 
-**Kategorie:**
+- **Kategorie 3**
+  - Určeno pro rozvod dat a hlasu šířkou pásma 16 MHz a přenosovou rychlostí do 10 Mbit/s. Využívá datových přenosů 10Base-T Ethernet.
 
-**Kategorie 1 –** Není určen k datovým přenosům, používá se třeba u telefonních rozvod. Přenosová rychlost do 1Mbit/s. Vhodné např. pro analogové rozvody, ISDN atd.
+- **Kategorie 4**
+  - Určeno pro přenos dat v síti Token ring se šířkou pásma 20Mhz a přenosovou rychlostí do 16Mbit/s.
 
-**Kategorie 2 –** Určeno pro přenos dat s maximální šířkou pásma 1,5 MHz. Používá se pro digitální přenos zvuku hlavně pro rozvody IBM Token ring. Přenosová rychlost 4Mbit/s.
+- **Kategorie 5**
+  - Pracuje v šířce pásma do 100MHz. Přenosová rychlost do 100Mbit/s, při využití všech vláken(8) až 1 Gbit/s. Nyní je nahrazen standardem 5E.
 
-**Kategorie 3 –** Určeno pro rozvod dat a hlasu šířkou pásma 16 MHz a přenosovou rychlostí do 10 Mbit/s. Využívá datových přenosů 10Base-T Ethernet.
+- **Kategorie 5E**
+  - Vyžaduje nové způsoby měření parametrů a v některých parametrech je přísnější. Cílem je provozovat 1 Gbit/s.
 
-**Kategorie 4 –** Určeno pro přenos dat v síti Token ring se šířkou pásma 20Mhz a přenosovou rychlostí do 16Mbit/s.
+- **Kategorie 6**
+  - Šířka pásma je 250 Mhz. Využívá se pro ultrarychlé páteřní aplikace v oblasti lokálních sítí. Nejpopulárnější kabeláž pro nově budované rozvody.
 
-**Kategorie 5 –** Pracuje v šířce pásma do 100MHz. Přenosová rychlost do 100Mbit/s, při využití všech vláken(8) až 1 Gbit/s. Nyní je nahrazen standardem 5E.
+- **Kategorie 6a**
+  - Šířka pásma 500MHz. Používá se pro zvláště rychlé páteřní aplikace v lokálních sítích. Využívá se i pro 10GBASE-T Ethernet (10 Gbit/s)
 
-**Kategorie 5E –** Vyžaduje nové způsoby měření parametrů a v některých parametrech je přísnější. Cílem je provozovat 1 Gbit/s.
+- **Kategorie 7**
+  - Šířka pásma do 600 - 700 MHz.
+  - Kabel je plně stíněný - každý pár je stíněn zvlášť Al fólií a kabel sám má ještě celkový štít.
+  - Tato „plně stíněná“ konstrukce má ale za následek větší váhu, větší vnější průměr a menší ohebnost kabelu než UTP nebo STP.
+  - Používá se pro přenosy plné šířky videa, teleradiologii. V současné době se provádí první pokusy s tímto standardem.
 
-**Kategorie 6 –** Šířka pásma je 250 Mhz. Využívá se pro ultrarychlé páteřní aplikace v oblasti lokálních sítí. Nejpopulárnější kabeláž pro nově budované rozvody.
+- **Nestíněná - UTP** (Unshielded TP)
+  – zkroucené páry uloženy do plastické izolace.
 
-**Kategorie 6a –** Šířka pásma 500MHz. Používá se pro zvláště rychlé páteřní aplikace v lokálních sítích. Využívá se i pro 10GBASE-T Ethernet (10 Gbit/s)
-
-**Kategorie 7 –** Šířka pásma do 600 - 700 MHz. Kabel je plně stíněný - každý pár je stíněn zvlášť Al fólií a kabel sám má ještě celkový štít. Tato „plně stíněná“ konstrukce má ale za následek větší váhu, větší vnější průměr a menší ohebnost kabelu než UTP nebo STP. Používá se pro přenosy plné šířky videa, teleradiologii. V současné době se provádí první pokusy s tímto standardem.
-
-**Nestíněná - UTP** (Unshielded TP) – zkroucené páry uloženy do plastické izolace.
-
-**Stíněná - STP** (Shielded TP) – kolem párů je kovové opletení, které zvyšuje ochranu proti vnějšímu elektromagnetickému rušení.
+- **Stíněná - STP** (Shielded TP)
+  – kolem párů je kovové opletení, které zvyšuje ochranu proti vnějšímu elektromagnetickému rušení.
 
 V běžných provozech se používá nestíněná dvojlinka, stíněná se používá pouze tam, kde je vyšší úroveň elektromagnetického rušení.
 
@@ -83,6 +95,7 @@ Kroucená dvojlinka se používá především pro zapojení stanic do hvězdy p
 Pro připojení k PC slouží dvojlinka s konektorem RJ-45, přenos dat až 1000 Mb/s
 
 Přímé nebo křížené zapojení standardu A či B
+
 
 B = bílo-oranžová, oranžová, bílo-zelená, modrá, bílo-modrá, zelená, bílo-hnědá, hnědá
 
