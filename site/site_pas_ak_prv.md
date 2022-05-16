@@ -94,8 +94,9 @@ Kroucená dvojlinka se používá především pro zapojení stanic do hvězdy p
 
 Pro připojení k PC slouží dvojlinka s konektorem RJ-45, přenos dat až 1000 Mb/s
 
-Přímé nebo křížené zapojení standardu A či B
-
+Přímé nebo křížené zapojení standardu A či B<br>
+![obrazek](https://user-images.githubusercontent.com/56117532/168585682-00cda6e6-823f-4ca7-98c0-4e5051c2ad33.png)
+<br>
 
 B = bílo-oranžová, oranžová, bílo-zelená, modrá, bílo-modrá, zelená, bílo-hnědá, hnědá
 
