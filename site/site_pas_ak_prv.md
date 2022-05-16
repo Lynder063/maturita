@@ -98,11 +98,11 @@ Přímé nebo křížené zapojení standardu A či B<br>
 ![obrazek](https://user-images.githubusercontent.com/56117532/168585682-00cda6e6-823f-4ca7-98c0-4e5051c2ad33.png)
 <br>
 
-B = bílo-oranžová, oranžová, bílo-zelená, modrá, bílo-modrá, zelená, bílo-hnědá, hnědá
+**B** = bílo-oranžová, oranžová, bílo-zelená, modrá, bílo-modrá, zelená, bílo-hnědá, hnědá
 
-A = prohodit zelené a oranžové barvy
+**A** = prohodit zelené a oranžové barvy
 
-**Optický kabel**
+### Optický kabel
 
 Je tvořen jedním nebo více optickými vlákny, které jsou spolu uloženy ve vnějším obalu.
 
@@ -110,11 +110,13 @@ Data jsou přenášena světelnými impulsy v průsvitných vláknech.
 
 Při vedení světelného signálu se využívá jevu úplný odraz, ke kterému dochází na rozhraní jádra a pláště.
 
-**Druhy vláken:**
+#### Druhy vláken:
 
-**Mnohovidová -** při průchodu vláknem je světelná energie rozdělena na více paprsků, na konec kabelu dojdou jednotlivé vidy s časovým odstupem, což vede ke zkreslení signálu. Tyto kabely jsou levnější, ale mají horší optické vlastnosti. – Jejich jádro má průměr 50, 62.5 nebo 100 mikrometrů. Výhodou mnohovidových vláken je relativně nízká cena, velká numerická apertura a možnost buzení luminiscenční diodou (LED).
+- **Mnohovidová**
+  - při průchodu vláknem je světelná energie rozdělena na více paprsků, na konec kabelu dojdou jednotlivé vidy s časovým odstupem, což vede ke zkreslení signálu. Tyto kabely jsou levnější, ale mají horší optické vlastnosti. – Jejich jádro má průměr 50, 62.5 nebo 100 mikrometrů. Výhodou mnohovidových vláken je relativně nízká cena, velká numerická apertura a možnost buzení luminiscenční diodou (LED).
 
-**Jednovidová –** prochází pouze jeden paprsek bez lomů. Jádro o velmi malém průměru (8-10 mikromů), lepší optické vlastnosti, vyšší přenosová kapacita, přenášejí na větší vzdálenost (až 5km), ale jsou dražší.
+- **Jednovidová**
+  - prochází pouze jeden paprsek bez lomů. Jádro o velmi malém průměru (8-10 mikromů), lepší optické vlastnosti, vyšší přenosová kapacita, přenášejí na větší vzdálenost (až 5km), ale jsou dražší.
 
 **Konektory:**
 
@@ -124,7 +126,7 @@ Přenosová rychlost optických kabelů se pohybuje až k mnoha gigabitům za s
 
 Realizace optické sítě je finančně nákladná a technicky náročná.
 
-**Síťové karty**
+### Síťové karty
 
 Slouží ke komunikaci počítače a kabelu podle pravidel která jsou daná síťovým standardem.
 
@@ -136,8 +138,8 @@ Jsou tedy integrované v základní desce, nebo do sběrnice PCI.
 
 Nejrozšířenější přenosová technologie je Ethernet.
 
-**MAC adresa**
+## MAC adresa
 
-6Byte = 48bitová
+**6Byte = 48bitová**
 
 K tomu, aby bylo možné uzel v síti jednoznačně identifikovat, je potřeba přidělit mu určité označení. MAC adresa, musí být především jednoznačná v rámci sítě, která umožňuje přímou komunikaci počítačů. V rámci sítí po celém světě, které mohou být navzájem propojeny, by neměla nastat situace, kdy se vyskytnou dva či větší počet počítačů se shodnými adresami. Pokud by se vyskytly počítače se stejnými MAC adresami v různých, navzájem oddělených sítích, problém by nevznikl. Komplikace by nastaly při duplicitě MAC adres v rámci jedné sítě, ovšem vzhledem k tomu, že uživatelé mohou svůj počítač přenést a připojit do jiné sítě, je lepší jednoznačnost adres dodržet v rámci celého světa. Jednoznačnosti je pak dosaženo tím, že MAC adresa je uložena již při výrobě pevně do paměti ROM síťového adaptéru, přičemž každému adaptéru je přidělena adresa odlišná od adres všech ostatních vyrobených adaptérů.
