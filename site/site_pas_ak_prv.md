@@ -15,14 +15,15 @@ Podle těchto parametrů charakterizujeme jednotlivé typy kabelů.
 
 **Druhy kabelů**
 
-Koaxiální kabel
+  - Koaxiální kabel
+    - ![obrazek](https://user-images.githubusercontent.com/56117532/168582191-9bcb7153-05d7-4d94-9311-303ede993ed7.png)
+  - Kroucená dvojlinka
+    - ![obrazek](https://user-images.githubusercontent.com/56117532/168582227-9ddf8665-ca8d-477d-9e3f-a3a6ff9559ae.png)
+  - Optický kabel
+    - ![obrazek](https://user-images.githubusercontent.com/56117532/168582272-82dc9f1f-b371-418e-894a-8933e50912e0.png)
 
-Kroucená dvojlinka
-
-Optický kabel
 
 **Koaxiální kabel**
-
 Je to nejstarší typ kabelu používaný v počítačových sítích a měl velký vliv na rozvoj počítačových sítí. (LAN) Základem je měděný vodič který je obalen plastovou izolací a ta je opletena stíněním. Vše je ve vnějším obalu který je z plastu.
 
 **Druhy:**
