@@ -32,11 +32,11 @@ Opětovné vysílání nastává za náhodný.
 - Gigabitový Ethernet (1000BaseTX)
 - 10Gigabitový Ethernet (10GBaseT)
 
-první číslo	= značí přenosovou rychlost (např: 100Mb/s) 100megabitů/sekunda
+**první číslo	= značí přenosovou rychlost (např: 100Mb/s) 100megabitů/sekunda**
 
-base		= přenos v základním pásmu
+**base		= přenos v základním pásmu**
 
-označení vodiče= T (kroucenou dvojlinku), F,L(optické vlákno)
+**označení vodiče= T (kroucenou dvojlinku), F,L(optické vlákno)**
 
 ## IEEE 802.5 Token ring
 - podstatně méně používaná (téměř zaniklá)
