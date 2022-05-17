@@ -60,7 +60,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
    [London](anglictina/london.md)<br>
    [Places of interest in the UK](anglictina/places_of_interest_in_the_uk.md)<br>
    [Australia & New Zealand](anglictina/australia_and_new_zealand.md)<br>
-   Canada<br>
+   [Canada](anglictina/canada.md)<br>
    The USA<br>
    Cities in the USA<br>
    Feastdays, holidays and festivals in English-speaking countries<br>
