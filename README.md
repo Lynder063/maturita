@@ -10,6 +10,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 - [x] "Radši se zabiju než abych spáchal sebevraždu" - Lynder063, 2020
 - [ ] Naučit se tu mrdku
 - [x] Ztrácím pojem o realitě
+- [x] Složit maturitu
 - [ ] Najít si ~~GF~~ kamarádku s výhodami (to je asi naivní sen)
 
 ## Orientační navigace
