@@ -1,8 +1,10 @@
 # Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k maturitě 2022<br>
 
+Mohl jsem to dát všechno za 50 korun jak mi radil pan učitel. Ale na to jsem asi moc hodný člověk<br>
+
 *Struktůra a obsah od Kryštofa "Lynder063" Malindy*<br>
-*Materialy jsou kolektivní práce Kryštofa, Martina, Standy, Ondry a Davida*
+*Materialy jsou kolektivní práce Kryštofa, Martina, Standy, Ondry a Davida*<br>
 
 
 
