@@ -2,7 +2,9 @@
 Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k maturitě 2022<br>
 
 *Struktůra a obsah od Kryštofa "Lynder063" Malindy*<br>
+*Materialy a podklady jsou kolektivní práce Kryštofa, Martina, Standy, Ondra, Davida*
 *(Občasná) Gramatická kontrola od Davida Duška*
+
 
 ## Task-list
 - [x] Udělat README.md
